@@ -11,7 +11,7 @@ unslop is a skill for Claude Code and Codex that turns vibecoded, AI-looking UI 
 For Claude Code, the quickest way is the plugin marketplace:
 
 ```
-/plugin marketplace add yonacraft1234/claude-marketplace
+/plugin marketplace add yonacraft1234/unslop-skills
 /plugin install unslop@unslop-skills
 ```
 
