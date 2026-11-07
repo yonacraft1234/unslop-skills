@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "unslop",
-      "source": { "source": "github", "repo": "heydamir/unslop" },
+      "source": "./",
       "description": "Turns vibecoded, AI-looking UI into a designed interface (by Damir Sokolovsky, CC BY 4.0)",
       "homepage": "https://github.com/heydamir/unslop"
     }
