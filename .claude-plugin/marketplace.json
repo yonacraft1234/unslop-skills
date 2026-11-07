@@ -1,6 +1,6 @@
 {
-  "name": "yonatan-skills",
-  "description": "Yonatan's curated Claude Code skills",
+  "name": "unslop-skills",
+  "description": "Unslop skills for Claude Code",
   "owner": { "name": "Yonatan Twito", "email": "yonacraft1234@gmail.com" },
   "plugins": [
     {

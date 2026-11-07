@@ -1,10 +1,10 @@
-# yonatan-skills
+# unslop-skills
 
 Claude Code plugin marketplace.
 
 ```
 /plugin marketplace add yonacraft1234/claude-marketplace
-/plugin install unslop@yonatan-skills
+/plugin install unslop@unslop-skills
 ```
 
 To add a skill repo: append an entry to `.claude-plugin/marketplace.json`, e.g.
